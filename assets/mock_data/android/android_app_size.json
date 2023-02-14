@@ -1,0 +1,123 @@
+[
+  {
+    "os": "Android",
+    "version": "4.5.60",
+    "app_size": "60",
+    "data": [
+      {
+        "domain": "flutter_assets",
+        "measure": 27262976,
+        "formatted_value": "26 MB",
+        "type": 2
+      },
+      {
+        "domain": "package:pc3",
+        "measure": 5242880,
+        "formatted_value": "5 MB",
+        "type": 2
+      },
+      {
+        "domain": "package:online_grocery_app",
+        "measure": 5242880,
+        "formatted_value": "5 MB",
+        "type": 2
+      },
+      {
+        "domain": "package:flutter",
+        "measure": 4194304,
+        "formatted_value": "4 MB",
+        "type": 2
+      },
+      {
+        "domain": "package:event",
+        "measure": 4194304,
+        "formatted_value": "4 MB",
+        "type": 2
+      },
+      {
+        "domain": "package:senpay_core",
+        "measure": 3145728,
+        "formatted_value": "3 MB",
+        "type": 2
+      },
+      {
+        "domain": "package:senpay",
+        "measure": 3145728,
+        "formatted_value": "3 MB",
+        "type": 2
+      },
+      {
+        "domain": "package:dgs_base",
+        "measure": 1048576,
+        "formatted_value": "1 MB",
+        "type": 2
+      },
+      {
+        "domain": "package:checkoutsendo",
+        "measure": 1048576,
+        "formatted_value": "1 MB",
+        "type": 2
+      },
+      {
+        "domain": "package:pointycastle",
+        "measure": 1004544,
+        "formatted_value": "981 KB",
+        "type": 2
+      },
+      {
+        "domain": "package:sf_referral",
+        "measure": 698368,
+        "formatted_value": "682 KB",
+        "type": 2
+      },
+      {
+        "domain": "package:core_plugin",
+        "measure": 615424,
+        "formatted_value": "601 KB",
+        "type": 2
+      },
+      {
+        "domain": "package:image",
+        "measure": 579584,
+        "formatted_value": "566 KB",
+        "type": 2
+      },
+      {
+        "domain": "package:sendo_complain_package",
+        "measure": 562176,
+        "formatted_value": "549 KB",
+        "type": 2
+      },
+      {
+        "domain": "package:flutter_math_fork",
+        "measure": 430080,
+        "formatted_value": "420 KB",
+        "type": 2
+      },
+      {
+        "domain": "package:shoptvc",
+        "measure": 411648,
+        "formatted_value": "402 KB",
+        "type": 2
+      },
+      {
+        "domain": "package:ced_mobile_core",
+        "measure": 385024,
+        "formatted_value": "376 KB",
+        "type": 2
+      },
+      {
+        "domain": "package:flutter_localizations",
+        "measure": 363520,
+        "formatted_value": "355 KB",
+        "type": 2
+      },
+      {
+        "domain": "package:flutter_widget_from_html_core",
+        "measure": 315392,
+        "formatted_value": "308 KB",
+        "type": 2
+      }
+    ]
+  }
+]
