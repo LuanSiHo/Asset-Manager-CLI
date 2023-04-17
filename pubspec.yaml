@@ -13,7 +13,7 @@ dependencies:
   args: ^2.3.1
 
   mason_logger: ^0.1.2
-  pub_updater: ^0.2.2
+  pub_updater: ">=0.2.2 <0.4.0"
 executables:
   asset_manager:
 
